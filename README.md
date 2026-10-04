@@ -1,6 +1,6 @@
 # Landing Page - Consultório Odontológico 🦷
 
-> 🌐 **Acesse o projeto rodando aqui:** [https://github.io](https://jvco30.github.io/Consult-rio-Odontol-gico/)
+> 🌐 **Acesse o projeto rodando aqui:** [https://github.io](https://jvco30.github.io/consultorio-odontologico/)
 
 Este é um projeto prático de landing page institucional para o nicho de saúde, desenvolvido para fins de estudo e hospedado diretamente no GitHub Pages.
 
